@@ -1,0 +1,22 @@
+{
+   "label": {
+      "name": "name",
+      "alert": "Alert",
+      "confirm": "Confirm",
+      "error": "Error"
+   },
+   "menu": {
+      "message": "Common Message",
+      "language": "Language Conversion"
+   },
+   "title": {
+      "T0001": "Language conversion test"
+   },
+   "message": {
+      "M0001": "Input your {item}, please",
+      "donations": "Donations raised: {donations}"
+   },
+   "error": {
+      "internal1": "this is internal 1 error message"
+   }
+}

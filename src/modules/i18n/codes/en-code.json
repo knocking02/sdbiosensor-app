@@ -1,0 +1,2414 @@
+{
+   "SYS21": [
+      {
+         "sclsfCd": "SYS2101",
+         "sclsfNm": "IMAGE",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2102",
+         "sclsfNm": "썸네일",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2103",
+         "sclsfNm": "서명",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2104",
+         "sclsfNm": "첨부파일",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2105",
+         "sclsfNm": "동영상",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2106",
+         "sclsfNm": "회전이미지",
+         "sortOrd": 6,
+         "useYn": "Y"
+      }
+   ],
+   "BSI34": [
+      {
+         "sclsfCd": "BSI3401",
+         "sclsfNm": "자택",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3402",
+         "sclsfNm": "근무지",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3403",
+         "sclsfNm": "학교",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3404",
+         "sclsfNm": "기타",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI23": [
+      {
+         "sclsfCd": "BSI2301",
+         "sclsfNm": "휴대폰 찾기",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2302",
+         "sclsfNm": "시간 표시",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2303",
+         "sclsfNm": "야간모드",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2304",
+         "sclsfNm": "음악",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2305",
+         "sclsfNm": "손목들어 켜기",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2306",
+         "sclsfNm": "자동운동모드 설정",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2307",
+         "sclsfNm": "적용 위치 화면 변경",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2308",
+         "sclsfNm": "화면모드",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2309",
+         "sclsfNm": "스트레스 높음  알림",
+         "sortOrd": 9,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2310",
+         "sclsfNm": "생리 주기 알림",
+         "sortOrd": 10,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2311",
+         "sclsfNm": "목표걸음표",
+         "sortOrd": 11,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2312",
+         "sclsfNm": "운동 목표심박 알림",
+         "sortOrd": 12,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2313",
+         "sclsfNm": "손씻기 알림",
+         "sortOrd": 13,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2314",
+         "sclsfNm": "공지사항 알림",
+         "sortOrd": 14,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2315",
+         "sclsfNm": "응원메세지 알림",
+         "sortOrd": 15,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2316",
+         "sclsfNm": "포인트 전환 알림",
+         "sortOrd": 16,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2317",
+         "sclsfNm": "상담 답변 알림",
+         "sortOrd": 17,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2318",
+         "sclsfNm": "이벤트 알림",
+         "sortOrd": 18,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2319",
+         "sclsfNm": "리포트 알림",
+         "sortOrd": 19,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2320",
+         "sclsfNm": "알람",
+         "sortOrd": 20,
+         "useYn": "Y"
+      }
+   ],
+   "BSI38": [
+      {
+         "sclsfCd": "BSI3801",
+         "sclsfNm": "반납미대상",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3802",
+         "sclsfNm": "반납미요청",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3803",
+         "sclsfNm": "반납요청",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3804",
+         "sclsfNm": "반납처리완료",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI26": [
+      {
+         "sclsfCd": "BSI2601",
+         "sclsfNm": "배송준비",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2602",
+         "sclsfNm": "발송완료",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2603",
+         "sclsfNm": "연동완료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2604",
+         "sclsfNm": "미연동",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2605",
+         "sclsfNm": "분실파손",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2606",
+         "sclsfNm": "반납요청",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2607",
+         "sclsfNm": "반납완료",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2608",
+         "sclsfNm": "기타",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2609",
+         "sclsfNm": "반납미대상",
+         "sortOrd": 9,
+         "useYn": "Y"
+      }
+   ],
+   "BSI25": [
+      {
+         "sclsfCd": "BSI2501",
+         "sclsfNm": "정상운영",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2502",
+         "sclsfNm": "변경신청(밴드유형)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2503",
+         "sclsfNm": "변경신청(참여철회)",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2504",
+         "sclsfNm": "변경신청(분실파손)",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2505",
+         "sclsfNm": "변경신청(반납진행)",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2506",
+         "sclsfNm": "배송준비",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2507",
+         "sclsfNm": "미연동",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2508",
+         "sclsfNm": "기타",
+         "sortOrd": 8,
+         "useYn": "Y"
+      }
+   ],
+   "BSI01": [
+      {
+         "sclsfCd": "BSI0101",
+         "sclsfNm": "거의 앉아서 생활해요.",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0102",
+         "sclsfNm": "신경써서 움직이려고 노력해요",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0103",
+         "sclsfNm": "자주 앉았다 일어났다 반복해요.",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0104",
+         "sclsfNm": "하루종일 쉴 새 없이 움직여요.",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI33": [
+      {
+         "sclsfCd": "BSI3301",
+         "sclsfNm": "사업 시작 전",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3302",
+         "sclsfNm": "사업 진행 중",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3303",
+         "sclsfNm": "사업 종료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI07": [
+      {
+         "sclsfCd": "BSI0701",
+         "sclsfNm": "최초1회",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0702",
+         "sclsfNm": "일",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0703",
+         "sclsfNm": "주",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0704",
+         "sclsfNm": "월",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI10": [
+      {
+         "sclsfCd": "BSI1001",
+         "sclsfNm": "처리 후 바로",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1002",
+         "sclsfNm": "처리 후 5분뒤",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1003",
+         "sclsfNm": "처리 후 30분 뒤",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1004",
+         "sclsfNm": "처리 후 1시간 뒤",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI39": [
+      {
+         "sclsfCd": "BSI3901",
+         "sclsfNm": "확인 중",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3902",
+         "sclsfNm": "상담 진행 중",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3903",
+         "sclsfNm": "상담 완료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "SYS07": [
+      {
+         "sclsfCd": "SYS0701",
+         "sclsfNm": "투데이",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0702",
+         "sclsfNm": "9988밴드",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0703",
+         "sclsfNm": "자가밴드",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0704",
+         "sclsfNm": "건강데이터",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0705",
+         "sclsfNm": "포인트",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0706",
+         "sclsfNm": "서울페이 전환",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0707",
+         "sclsfNm": "건강목표",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0708",
+         "sclsfNm": "운동장",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0709",
+         "sclsfNm": "상담",
+         "sortOrd": 9,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0710",
+         "sclsfNm": "홈트레이닝",
+         "sortOrd": 10,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0711",
+         "sclsfNm": "명상 서비스",
+         "sortOrd": 11,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0712",
+         "sclsfNm": "랭킹",
+         "sortOrd": 12,
+         "useYn": "Y"
+      }
+   ],
+   "BSI14": [
+      {
+         "sclsfCd": "BSI1401",
+         "sclsfNm": "걸음수 달성",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1402",
+         "sclsfNm": "출석 체크",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1403",
+         "sclsfNm": "식단인증",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1404",
+         "sclsfNm": "건강콘텐츠참여",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1405",
+         "sclsfNm": "스타트업",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1406",
+         "sclsfNm": "회원가입",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1407",
+         "sclsfNm": "활성",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1408",
+         "sclsfNm": "건강관리 목표달성",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1409",
+         "sclsfNm": "신체활동 행동변화",
+         "sortOrd": 9,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1410",
+         "sclsfNm": "사후 설문조사 참여",
+         "sortOrd": 10,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1411",
+         "sclsfNm": "걸음수 달성",
+         "sortOrd": 11,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1412",
+         "sclsfNm": "출석 체크",
+         "sortOrd": 12,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1413",
+         "sclsfNm": "식단인증",
+         "sortOrd": 13,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1414",
+         "sclsfNm": "건강콘텐츠참여",
+         "sortOrd": 14,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1415",
+         "sclsfNm": "스타트업",
+         "sortOrd": 15,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1416",
+         "sclsfNm": "회원가입",
+         "sortOrd": 16,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1417",
+         "sclsfNm": "활성",
+         "sortOrd": 17,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1418",
+         "sclsfNm": "건강관리 목표달성",
+         "sortOrd": 18,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1419",
+         "sclsfNm": "신체활동 행동변화",
+         "sortOrd": 19,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1420",
+         "sclsfNm": "사후 설문조사 참여",
+         "sortOrd": 20,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1421",
+         "sclsfNm": "인앱",
+         "sortOrd": 21,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1422",
+         "sclsfNm": "기타",
+         "sortOrd": 22,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1423",
+         "sclsfNm": "서울페이",
+         "sortOrd": 23,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1424",
+         "sclsfNm": "따릉이",
+         "sortOrd": 24,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1425",
+         "sclsfNm": "밴드분실/파손",
+         "sortOrd": 25,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1426",
+         "sclsfNm": "기타",
+         "sortOrd": 26,
+         "useYn": "Y"
+      }
+   ],
+   "SYS04": [
+      {
+         "sclsfCd": "SYS0401",
+         "sclsfNm": "게시글",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0402",
+         "sclsfNm": "댓글",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "COM01": [
+      {
+         "sclsfCd": "COM0101",
+         "sclsfNm": "제목+내용",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0102",
+         "sclsfNm": "제목",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0103",
+         "sclsfNm": "내용",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0104",
+         "sclsfNm": "작성자",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "SYS09": [
+      {
+         "sclsfCd": "SYS0901",
+         "sclsfNm": "진행 전",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0902",
+         "sclsfNm": "진행 중",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0903",
+         "sclsfNm": "진행 후",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "PLG02": [
+      {
+         "sclsfCd": "PLG0201",
+         "sclsfNm": "운동 인증",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0202",
+         "sclsfNm": "식사 인증",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0203",
+         "sclsfNm": "걷기 챌린지 인증",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI32": [
+      {
+         "sclsfCd": "BSI3201",
+         "sclsfNm": "즉시",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3202",
+         "sclsfNm": "익일",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3203",
+         "sclsfNm": "이벤트종류 후",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "PLG01": [
+      {
+         "sclsfCd": "PLG0101",
+         "sclsfNm": "건강카드",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0102",
+         "sclsfNm": "건강지식",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0103",
+         "sclsfNm": "건강영상",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0104",
+         "sclsfNm": "건강밥상",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "SYS03": [
+      {
+         "sclsfCd": "SYS0301",
+         "sclsfNm": "4행시",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0302",
+         "sclsfNm": "편지쓰기",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0303",
+         "sclsfNm": "기대평",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0304",
+         "sclsfNm": "다짐작성",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0305",
+         "sclsfNm": "손닥이를 이겨라",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0306",
+         "sclsfNm": "랭킹 보상",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0307",
+         "sclsfNm": "미라클모닝",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0308",
+         "sclsfNm": "룰렛 시스템",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0309",
+         "sclsfNm": "복귀참여자",
+         "sortOrd": 9,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0310",
+         "sclsfNm": "설문조사",
+         "sortOrd": 10,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0311",
+         "sclsfNm": "추천인보상",
+         "sortOrd": 11,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0312",
+         "sclsfNm": "챌린지-코스형",
+         "sortOrd": 12,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0313",
+         "sclsfNm": "챌린지-장소형",
+         "sortOrd": 13,
+         "useYn": "Y"
+      }
+   ],
+   "SYS10": [
+      {
+         "sclsfCd": "SYS1001",
+         "sclsfNm": "공지사항",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1002",
+         "sclsfNm": "포인트",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1003",
+         "sclsfNm": "상담",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1004",
+         "sclsfNm": "맞춤형정보",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1005",
+         "sclsfNm": "서울시정책홍보",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI06": [
+      {
+         "sclsfCd": "BSI0601",
+         "sclsfNm": "포인트",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0602",
+         "sclsfNm": "미션",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0603",
+         "sclsfNm": "챌린지",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "SYS20": [
+      {
+         "sclsfCd": "SYS2001",
+         "sclsfNm": "전체",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2002",
+         "sclsfNm": "개인",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2003",
+         "sclsfNm": "선택",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI24": [
+      {
+         "sclsfCd": "BSI2401",
+         "sclsfNm": "없음(사업 참여 중단)",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2402",
+         "sclsfNm": "있음(포인트 5,000P 차감 후 지속 참여)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2403",
+         "sclsfNm": "있음(반납 후 지속 참여)",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI42": [
+      {
+         "sclsfCd": "BSI4201",
+         "sclsfNm": "1단계 무관심단계",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4202",
+         "sclsfNm": "2단계 관심단계",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4203",
+         "sclsfNm": "3단계 준비단계",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4204",
+         "sclsfNm": "4단계 행동단계",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4205",
+         "sclsfNm": "5단계 유지단계",
+         "sortOrd": 5,
+         "useYn": "Y"
+      }
+   ],
+   "MYH01": [
+      {
+         "sclsfCd": "MYH0101",
+         "sclsfNm": "아침식후",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0102",
+         "sclsfNm": "점심식후",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0103",
+         "sclsfNm": "저녁식후",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0104",
+         "sclsfNm": "공복",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "SYS24": [
+      {
+         "sclsfCd": "SYS2401",
+         "sclsfNm": "서비스 이용약관",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2402",
+         "sclsfNm": "개인정보 이용 수집 및 이용 동의",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2403",
+         "sclsfNm": "개인정보 처리 방침",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2404",
+         "sclsfNm": "행정정보 공동이용 사전동의",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI05": [
+      {
+         "sclsfCd": "BSI0501",
+         "sclsfNm": "신규",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0502",
+         "sclsfNm": "지속1차",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0503",
+         "sclsfNm": "지속2차",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0504",
+         "sclsfNm": "지속3차",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0505",
+         "sclsfNm": "지속4차",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0506",
+         "sclsfNm": "지속5차",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0507",
+         "sclsfNm": "지속6차",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0508",
+         "sclsfNm": "지속7차",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0509",
+         "sclsfNm": "지속8차",
+         "sortOrd": 9,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0510",
+         "sclsfNm": "지속9차",
+         "sortOrd": 10,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0511",
+         "sclsfNm": "지속10차",
+         "sortOrd": 11,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0512",
+         "sclsfNm": "공통",
+         "sortOrd": 12,
+         "useYn": "Y"
+      }
+   ],
+   "SYS05": [
+      {
+         "sclsfCd": "SYS0501",
+         "sclsfNm": "개발",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0502",
+         "sclsfNm": "운영",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI29": [
+      {
+         "sclsfCd": "BSI2901",
+         "sclsfNm": "좋아요",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2902",
+         "sclsfNm": "개선 필요",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI36": [
+      {
+         "sclsfCd": "BSI3601",
+         "sclsfNm": "사업종료",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3602",
+         "sclsfNm": "참여유형변경",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3603",
+         "sclsfNm": "기타(특이사항)",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "SYS23": [
+      {
+         "sclsfCd": "SYS2301",
+         "sclsfNm": "승인요청중",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2302",
+         "sclsfNm": "정상사용",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2303",
+         "sclsfNm": "미사용",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI18": [
+      {
+         "sclsfCd": "BSI1801",
+         "sclsfNm": "확인 중",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1802",
+         "sclsfNm": "상담 진행 중",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1803",
+         "sclsfNm": "상담 완료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI28": [
+      {
+         "sclsfCd": "BSI2801",
+         "sclsfNm": "웹",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2802",
+         "sclsfNm": "앱",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI20": [
+      {
+         "sclsfCd": "BSI2001",
+         "sclsfNm": "보유",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2002",
+         "sclsfNm": "분실",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2003",
+         "sclsfNm": "고장",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2004",
+         "sclsfNm": "파손",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2005",
+         "sclsfNm": "양도",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2006",
+         "sclsfNm": "매매",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2007",
+         "sclsfNm": "반납",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2008",
+         "sclsfNm": "자가워치",
+         "sortOrd": 8,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2009",
+         "sclsfNm": "미사용",
+         "sortOrd": 9,
+         "useYn": "Y"
+      }
+   ],
+   "BSI13": [
+      {
+         "sclsfCd": "BSI1301",
+         "sclsfNm": "일반적립",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1302",
+         "sclsfNm": "특별적립",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1303",
+         "sclsfNm": "인앱",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1304",
+         "sclsfNm": "차감",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "SYS01": [
+      {
+         "sclsfCd": "SYS0101",
+         "sclsfNm": "관리자",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0102",
+         "sclsfNm": "총괄",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0103",
+         "sclsfNm": "전담",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI15": [
+      {
+         "sclsfCd": "BSI1501",
+         "sclsfNm": "일반회원",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1502",
+         "sclsfNm": "특별회원",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "SYS11": [
+      {
+         "sclsfCd": "SYS1101",
+         "sclsfNm": "객관식 체크박스(중복)",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1102",
+         "sclsfNm": "객관식 라디오박스(단일)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1103",
+         "sclsfNm": "다문항",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1104",
+         "sclsfNm": "주관식",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1105",
+         "sclsfNm": "선형배율",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1106",
+         "sclsfNm": "시간",
+         "sortOrd": 6,
+         "useYn": "Y"
+      }
+   ],
+   "BSI21": [
+      {
+         "sclsfCd": "BSI2101",
+         "sclsfNm": "체중",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2102",
+         "sclsfNm": "허리둘레",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2103",
+         "sclsfNm": "걸음수",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2104",
+         "sclsfNm": "칼로리",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "LNK02": [
+      {
+         "sclsfCd": "LNK0201",
+         "sclsfNm": "검증반려",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "LNK0202",
+         "sclsfNm": "검증완료",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "LNK0203",
+         "sclsfNm": "배포허가",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "LNK0204",
+         "sclsfNm": "배포완료",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI37": [
+      {
+         "sclsfCd": "BSI3701",
+         "sclsfNm": "리퍼가능",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3702",
+         "sclsfNm": "폐기",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3703",
+         "sclsfNm": "기타",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI04": [
+      {
+         "sclsfCd": "BSI0401",
+         "sclsfNm": "보급밴드",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0402",
+         "sclsfNm": "자가밴드(삼성/애플워치)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0403",
+         "sclsfNm": "미사용",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0404",
+         "sclsfNm": "자가밴드(9988워치)",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "LNK01": [
+      {
+         "sclsfCd": "LNK0101",
+         "sclsfNm": "진행중",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "LNK0102",
+         "sclsfNm": "연동완료",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "SYS15": [
+      {
+         "sclsfCd": "SYS1501",
+         "sclsfNm": "전체",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1502",
+         "sclsfNm": "알림",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1503",
+         "sclsfNm": "푸시",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "SYS22": [
+      {
+         "sclsfCd": "SYS2201",
+         "sclsfNm": "1",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2202",
+         "sclsfNm": "2",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS2203",
+         "sclsfNm": "3",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI02": [
+      {
+         "sclsfCd": "BSI0201",
+         "sclsfNm": "서비스 신청 중",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0202",
+         "sclsfNm": "서비스 신청 중(보류)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0203",
+         "sclsfNm": "서비스 중",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0204",
+         "sclsfNm": "서비스종료(정상종료)",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0205",
+         "sclsfNm": "서비스종료(중도종료)",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0206",
+         "sclsfNm": "서비스종료(기타종료)",
+         "sortOrd": 6,
+         "useYn": "Y"
+      }
+   ],
+   "SYS14": [
+      {
+         "sclsfCd": "SYS1401",
+         "sclsfNm": "포인트",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1402",
+         "sclsfNm": "사업신청",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1403",
+         "sclsfNm": "사업참여",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1404",
+         "sclsfNm": "사업종료",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1405",
+         "sclsfNm": "로그인",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1406",
+         "sclsfNm": "비정기수시발송",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1407",
+         "sclsfNm": "시스템",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1408",
+         "sclsfNm": "기타",
+         "sortOrd": 8,
+         "useYn": "Y"
+      }
+   ],
+   "BSI08": [
+      {
+         "sclsfCd": "BSI0801",
+         "sclsfNm": "지급",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0802",
+         "sclsfNm": "차감",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI35": [
+      {
+         "sclsfCd": "BSI3501",
+         "sclsfNm": "택배수거(기사방분수거)",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3502",
+         "sclsfNm": "직접수거",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3503",
+         "sclsfNm": "택배수거(매니저처리)",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "PLG03": [
+      {
+         "sclsfCd": "PLG0301",
+         "sclsfNm": "진행전",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0302",
+         "sclsfNm": "진행중",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0303",
+         "sclsfNm": "진행종료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI16": [
+      {
+         "sclsfCd": "BSI1601",
+         "sclsfNm": "관리자,전문가 및 관련 종사자",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1602",
+         "sclsfNm": "사무 종사자",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1603",
+         "sclsfNm": "서비스 및 판매종사자",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1604",
+         "sclsfNm": "농림어업 숙련 종사자",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1605",
+         "sclsfNm": "기능원 장치기계 조작 및 조립 종사자",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1606",
+         "sclsfNm": "단순노무 종사자",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1607",
+         "sclsfNm": "무직(주부, 학생 등)",
+         "sortOrd": 7,
+         "useYn": "Y"
+      }
+   ],
+   "BSI03": [
+      {
+         "sclsfCd": "BSI0301",
+         "sclsfNm": "신규",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0302",
+         "sclsfNm": "지속",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI19": [
+      {
+         "sclsfCd": "BSI1901",
+         "sclsfNm": "9988워치 구입 후 지속",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1902",
+         "sclsfNm": "자체활동량계",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1903",
+         "sclsfNm": "사업종료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1904",
+         "sclsfNm": "해당없음",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1905",
+         "sclsfNm": "기기없이 지속",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1906",
+         "sclsfNm": "자가워치 사용",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1907",
+         "sclsfNm": "무응답",
+         "sortOrd": 7,
+         "useYn": "Y"
+      }
+   ],
+   "SYS16": [
+      {
+         "sclsfCd": "SYS1601",
+         "sclsfNm": "전체발신",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1602",
+         "sclsfNm": "개인발신",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1603",
+         "sclsfNm": "기관(그룹)",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "STT01": [
+      {
+         "sclsfCd": "STT0101",
+         "sclsfNm": "20대",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "STT0102",
+         "sclsfNm": "30대",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "STT0103",
+         "sclsfNm": "40대",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "STT0104",
+         "sclsfNm": "50대",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "STT0105",
+         "sclsfNm": "60대",
+         "sortOrd": 5,
+         "useYn": "Y"
+      }
+   ],
+   "BSI09": [
+      {
+         "sclsfCd": "BSI0901",
+         "sclsfNm": "SNS",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0902",
+         "sclsfNm": "앱푸시",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0903",
+         "sclsfNm": "알림톡",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI0904",
+         "sclsfNm": "미알림",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI30": [
+      {
+         "sclsfCd": "BSI3001",
+         "sclsfNm": "식습관 불량",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3002",
+         "sclsfNm": "식습관 보통",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3003",
+         "sclsfNm": "식습관 적정",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "MYH03": [
+      {
+         "sclsfCd": "MYH0301",
+         "sclsfNm": "월",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0302",
+         "sclsfNm": "화",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0303",
+         "sclsfNm": "수",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0304",
+         "sclsfNm": "목",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0305",
+         "sclsfNm": "금",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0306",
+         "sclsfNm": "토",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0307",
+         "sclsfNm": "일",
+         "sortOrd": 7,
+         "useYn": "Y"
+      }
+   ],
+   "SYS17": [
+      {
+         "sclsfCd": "SYS1701",
+         "sclsfNm": "대기",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1702",
+         "sclsfNm": "전송완료",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1703",
+         "sclsfNm": "전송실패",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "BSI11": [
+      {
+         "sclsfCd": "BSI1101",
+         "sclsfNm": "비밀번호 5회 오류",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1102",
+         "sclsfNm": "6개월 미접속",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "SYS06": [
+      {
+         "sclsfCd": "SYS0601",
+         "sclsfNm": "신체활동",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0602",
+         "sclsfNm": "영양",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0603",
+         "sclsfNm": "보건",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0604",
+         "sclsfNm": "기타",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0605",
+         "sclsfNm": "시스템문의",
+         "sortOrd": 5,
+         "useYn": "Y"
+      }
+   ],
+   "SYS13": [
+      {
+         "sclsfCd": "SYS1301",
+         "sclsfNm": "SMS",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1302",
+         "sclsfNm": "푸시",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "SYS18": [
+      {
+         "sclsfCd": "SYS1801",
+         "sclsfNm": "발송성공",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1802",
+         "sclsfNm": "발송실패",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI27": [
+      {
+         "sclsfCd": "BSI2701",
+         "sclsfNm": "참여자",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2702",
+         "sclsfNm": "테스트",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI22": [
+      {
+         "sclsfCd": "BSI2201",
+         "sclsfNm": "신청완료",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2202",
+         "sclsfNm": "승인",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2203",
+         "sclsfNm": "밴드발송",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2204",
+         "sclsfNm": "밴드연동",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI2205",
+         "sclsfNm": "서비스시작",
+         "sortOrd": 5,
+         "useYn": "Y"
+      }
+   ],
+   "BSI31": [
+      {
+         "sclsfCd": "BSI3101",
+         "sclsfNm": "정상군",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3102",
+         "sclsfNm": "건강주의군",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI3103",
+         "sclsfNm": "대사증후군",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "SYS08": [
+      {
+         "sclsfCd": "SYS0801",
+         "sclsfNm": "기초설문",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0802",
+         "sclsfNm": "건강행태설문",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0803",
+         "sclsfNm": "종료설문",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0804",
+         "sclsfNm": "이벤트설문",
+         "sortOrd": 4,
+         "useYn": "Y"
+      }
+   ],
+   "BSI12": [
+      {
+         "sclsfCd": "BSI1201",
+         "sclsfNm": "안드로이드",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1202",
+         "sclsfNm": "IOS",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "SYS12": [
+      {
+         "sclsfCd": "SYS1201",
+         "sclsfNm": "자동",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1202",
+         "sclsfNm": "수동",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "MYH02": [
+      {
+         "sclsfCd": "MYH0201",
+         "sclsfNm": "아침",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0202",
+         "sclsfNm": "점심",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0203",
+         "sclsfNm": "저녁",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0204",
+         "sclsfNm": "간식",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0205",
+         "sclsfNm": "아침간식",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0206",
+         "sclsfNm": "점심간식",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0207",
+         "sclsfNm": "저녁간식",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "MYH0208",
+         "sclsfNm": "기타",
+         "sortOrd": 8,
+         "useYn": "Y"
+      }
+   ],
+   "SYS19": [
+      {
+         "sclsfCd": "SYS1901",
+         "sclsfNm": "일반",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS1902",
+         "sclsfNm": "응원",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "BSI17": [
+      {
+         "sclsfCd": "BSI1701",
+         "sclsfNm": "지급등록",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1702",
+         "sclsfNm": "발송",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1703",
+         "sclsfNm": "발송 수령",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1704",
+         "sclsfNm": "발송 미수령",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1705",
+         "sclsfNm": "반송",
+         "sortOrd": 5,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1706",
+         "sclsfNm": "반송 수령",
+         "sortOrd": 6,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1707",
+         "sclsfNm": "반송 미수령",
+         "sortOrd": 7,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI1708",
+         "sclsfNm": "지급등록(배송지수정)",
+         "sortOrd": 8,
+         "useYn": "Y"
+      }
+   ],
+   "BSI41": [
+      {
+         "sclsfCd": "BSI4101",
+         "sclsfNm": "네이버",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4102",
+         "sclsfNm": "카카오",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "COM06": [
+      {
+         "sclsfCd": "COM0601",
+         "sclsfNm": "밴드반납",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0602",
+         "sclsfNm": "밴드미반납(포인트 5,000P 차감)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ],
+   "COM04": [
+      {
+         "sclsfCd": "COM0401",
+         "sclsfNm": "시작전",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0402",
+         "sclsfNm": "참여중",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0403",
+         "sclsfNm": "완료",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "COM03": [
+      {
+         "sclsfCd": "COM0301",
+         "sclsfNm": "없음",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0302",
+         "sclsfNm": "요청",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0303",
+         "sclsfNm": "승인",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "SYS02": [
+      {
+         "sclsfCd": "SYS0201",
+         "sclsfNm": "글작성형",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0202",
+         "sclsfNm": "배치형",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "SYS0203",
+         "sclsfNm": "참여형",
+         "sortOrd": 3,
+         "useYn": "Y"
+      }
+   ],
+   "COM05": [
+      {
+         "sclsfCd": "COM0501",
+         "sclsfNm": "1개월",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0502",
+         "sclsfNm": "3개월",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0503",
+         "sclsfNm": "6개월",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0504",
+         "sclsfNm": "1년",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "COM0505",
+         "sclsfNm": "3년",
+         "sortOrd": 5,
+         "useYn": "Y"
+      }
+   ],
+   "BSI40": [
+      {
+         "sclsfCd": "BSI4001",
+         "sclsfNm": "단순변심",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4002",
+         "sclsfNm": "서울시 외 지역으로 이사, 전출",
+         "sortOrd": 2,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4003",
+         "sclsfNm": "건강활동 지속이 어려운 부상, 질병발생, 참여자의 사망",
+         "sortOrd": 3,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4004",
+         "sclsfNm": "밴드 양도 및 파손",
+         "sortOrd": 4,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "BSI4005",
+         "sclsfNm": "기타(직접입력)",
+         "sortOrd": 5,
+         "useYn": "Y"
+      }
+   ],
+   "PLG04": [
+      {
+         "sclsfCd": "PLG0401",
+         "sclsfNm": "객관식라디오박스(단일)",
+         "sortOrd": 1,
+         "useYn": "Y"
+      },
+      {
+         "sclsfCd": "PLG0402",
+         "sclsfNm": "객관식체크박스(중복)",
+         "sortOrd": 2,
+         "useYn": "Y"
+      }
+   ]
+}

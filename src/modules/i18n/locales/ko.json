@@ -1,0 +1,22 @@
+{
+   "label": {
+      "name": "이름",
+      "alert": "알림",
+      "confirm": "확인",
+      "error": "오류"
+   },
+   "menu": {
+      "message": "공통 메세지",
+      "language": "다국어 변환"
+   },
+   "title": {
+      "T0001": "언어 변환 테스트"
+   },
+   "message": {
+      "M0001": "{item}을 입력해주세요",
+      "donations": "모금된 기부액은 {donations} 입니다."
+   },
+   "error": {
+      "internal1": "내부 오류 메세지 1"
+   }
+}
