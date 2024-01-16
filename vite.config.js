@@ -30,7 +30,7 @@ export default ({ mode }) => {
          proxy: {
             // API 프록시 설정
             '/adm/': {
-               target: process.env.VITE_REST_API_ADM,
+               target: process.env.VITE_REST_API_APP,
                changeOrigin: true,
                logLevel: 'debug',
                //rewrite: (path) => path.replace(/^\/adm/, ''),

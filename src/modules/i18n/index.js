@@ -1,6 +1,8 @@
 import { createI18n } from 'vue-i18n'
 import ko from './locales/ko.json'
 import en from './locales/en.json'
+import hi from './locales/hi.json'
+import pt from './locales/pt.json'
 import numberFormats from './rules/number'
 import datetimeFormats from './rules/datetime'
 
@@ -9,7 +11,7 @@ const i18n = createI18n({
    fallbackLocale: import.meta.env.VITE_FALLBACK_LOCALE,
    legacy: false,
    globalInjection: true,
-   messages: { ko, en },
+   messages: { ko, en, hi, pt },
    numberFormats,
    datetimeFormats,
    missingWarn: false, // 번역 오류시  console warning 비활성화

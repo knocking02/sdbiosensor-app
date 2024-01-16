@@ -4,10 +4,10 @@
       "alert": "Alert",
       "confirm": "Confirm",
       "error": "Error",
-      "L0001": "Find your email",
-      "L0002": "Find your password",
-      "L0003": "Sign up",
-      "L0004": "Sign in"
+      "L0001": "Encontrar e-mail",
+      "L0002": "Encontrar senha",
+      "L0003": "junte-se à adesão",
+      "L0004": "Conecte-se"
    },
    "menu": {
       "message": "Common Message",

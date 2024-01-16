@@ -4,10 +4,10 @@
       "alert": "Alert",
       "confirm": "Confirm",
       "error": "Error",
-      "L0001": "Find your email",
-      "L0002": "Find your password",
-      "L0003": "Sign up",
-      "L0004": "Sign in"
+      "L0001": "अपना ईमेल ढूंढें",
+      "L0002": "पासवर्ड पता करो",
+      "L0003": "सदस्यता में शामिल हों",
+      "L0004": "लॉग इन करें"
    },
    "menu": {
       "message": "Common Message",

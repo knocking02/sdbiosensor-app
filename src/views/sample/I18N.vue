@@ -13,6 +13,12 @@
                />
             </div>
             <div class="col" style="padding: 15px">
+               <div class="text-h7">{{ $t('label.L0001') }}</div>
+               <div class="text-h7">{{ $t('label.L0002') }}</div>
+               <div class="text-h7">{{ $t('label.L0003') }}</div>
+               <div class="text-h7">{{ $t('label.L0004') }}</div>
+            </div>
+            <div class="col" style="padding: 15px">
                <div class="text-h7">{{ $t('label.name') }}</div>
                <div class="text-h7">{{ $t('title.T0001') }}</div>
                <div class="text-h7">{{ $t('message.M0001', { item: t('label.name') }) }}</div>

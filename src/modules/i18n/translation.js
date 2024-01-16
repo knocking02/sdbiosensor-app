@@ -22,6 +22,8 @@ export const Trans = {
          return 'ko-KR'
       } else if (locale === 'en') {
          return 'en-US'
+      } else {
+         return locale
       }
    },
 
